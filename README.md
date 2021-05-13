@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=emeksthecreator.com&style=for-the-badge&url=https%3A%2F%2Femeksthecreator.com)](https://emeksthecreator.com)
 
 
-## I'm a Software Engineer!!
+## I'm a Software Engineer
 
 - 🌱 I’m currently working on my youtube channel 🤣
 - 👯 I’m looking to give back to the developer community
@@ -20,8 +20,8 @@
 
 <br />
 
-<details align="left">
-  <summary>:zap: GitHub Stats</summary>
+<details>
+  <summary align="left">:zap: GitHub Stats</summary>
 
   <img align="left" alt="ErnestCodes GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ErnestCodes&show_icons=true&hide_border=true" />
 
