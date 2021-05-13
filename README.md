@@ -1,7 +1,7 @@
 ### Hi there, I'm Ernest - aka [emeksthecreator][website] 👋
 
 [![Website](https://img.shields.io/website?label=emeksthecreator.com&style=for-the-badge&url=https%3A%2F%2Femeksthecreator.com)](https://emeksthecreator.com)
-[![Instagram Follow](https://img.shields.io/badge/1.3k-emeksthecreator-red)][https://instagram.com/emeksthecreator]
+
 
 ## I'm a Software Engineer!!
 
@@ -21,7 +21,7 @@
 <br />
 
 <details>
-  <summary>:zap: My GitHub Stats</summary>
+  <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="ErnestCodes GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ErnestCodes&show_icons=true&hide_border=true" />
 
