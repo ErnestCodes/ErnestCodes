@@ -20,7 +20,7 @@
 
 <br />
 
-<details>
+<details align="left">
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="ErnestCodes GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ErnestCodes&show_icons=true&hide_border=true" />
