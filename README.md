@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently working on my youtube channel 🤣
 - 👯 I’m looking to give back to the developer community
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Working on my unicorn Startup!
 - ⚡ Fun fact: I love sports
 
 ### Connect with me:
