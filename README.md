@@ -1,6 +1,6 @@
 ### Hi there, I'm Ernest - aka [emeksthecreator][website] 👋
 
-[![Website](https://img.shields.io/website?label=emeksthecreator.com&style=for-the-badge&url=https%3A%2F%2Femeksthecreator.com)](https://emeksthecreator.com)
+[![Website](https://img.shields.io/website?label=emeksthecreator.com&style=for-the-badge&url=https%3A%2F%2Femeksthecreator.com)](https://nnaemeka-f1184.web.app/)
 
 
 ## I'm a Software Engineer
