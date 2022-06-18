@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://nnaemeka-f1184.web.app/](https://nnaemeka-f1184.web.app/)
 
-- 📝 I regularly write articles on [https://medium.com/](https://medium.com/)
+- 📝 I regularly write articles on [https://medium.com/](https://medium.com/@ErnestCodes)
 
 - 💬 Ask me about **System Design, ReactJS, React Native, Nodejs, Typescript and Firebase**
 
