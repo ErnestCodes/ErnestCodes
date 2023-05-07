@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on [Aries: the best crypto shopping experience](https://ariess.netlify.app/)
 
-- 🌱 I’m currently learning **Laravel, Micro-services and DevOps**
-
 - 👯 I’m looking to collaborate on **Hubswitch Africa: open source developer community**
 
 - 🤝 I’m looking for help with [Awesome JavaScript Projects](https://vishal-raj-1.github.io/Awesome-JavaScript-Projects/)
@@ -17,9 +15,6 @@
 
 - 💬 Ask me about **System Design, ReactJS, React Native, Nodejs, Typescript and Firebase**
 
-- 📫 How to reach me **emeksthecreator.dev@gmail.com**
-
-- ⚡ Fun fact **I like Football.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
