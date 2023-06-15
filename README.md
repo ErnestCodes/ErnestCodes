@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ernest Onukwube</h1>
+<h1 align="center">Hi 👋, I'm Nnaemeka Onukwube</h1>
 <h3 align="center">A passionate software engineer that mostly work on FullStack web and mobile apps. I create distributed systems that scale horizontally and uses a hot standby for fail-overs.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ernestcodes&label=Profile%20views&color=0e75b6&style=flat" alt="ernestcodes" /> </p>
