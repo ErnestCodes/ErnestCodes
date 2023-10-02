@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with [Awesome JavaScript Projects](https://vishal-raj-1.github.io/Awesome-JavaScript-Projects/)
 
-- 👨‍💻 All of my projects are available at [https://nnaemeka-f1184.web.app/](https://nnaemeka-f1184.web.app/)
+- 👨‍💻 All of my projects are available at [https://nnaemeka-f1184.web.app/](https://emeksthecreator.com.ng/projects)
 
 - 📝 I regularly write articles on [https://medium.com/@ErnestCodes](https://medium.com/@ErnestCodes)
 
