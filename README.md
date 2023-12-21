@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ernestcodes&label=Profile%20views&color=0e75b6&style=flat" alt="ernestcodes" /> </p>
 
-- 🔭 I’m currently working on [Aries: the best crypto shopping experience](https://ariess.netlify.app/)
-
 - 👯 I’m looking to collaborate on **Hubswitch Africa: open source developer community**
 
 - 🤝 I’m looking for help with [Awesome JavaScript Projects](https://vishal-raj-1.github.io/Awesome-JavaScript-Projects/)
 
-- 👨‍💻 All of my projects are available at [https://nnaemeka-f1184.web.app/](https://emeksthecreator.com.ng/projects)
+- 👨‍💻 All of my projects are available at [https://emeksthecreator.com.ng](https://emeksthecreator.com.ng/projects)
 
 - 📝 I regularly write articles on [https://medium.com/@ErnestCodes](https://medium.com/@ErnestCodes)
 
