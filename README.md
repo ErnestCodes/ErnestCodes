@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ernestcodes&label=Profile%20views&color=0e75b6&style=flat" alt="ernestcodes" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://emeksthecreator.com.ng](https://emeksthecreator.com/projects)
+- 👨‍💻 All of my projects are available at [https://emeksthecreator.com](https://emeksthecreator.com/projects)
 
 - 📝 I write articles on [https://medium.com/@ErnestCodes](https://medium.com/@ErnestCodes)
 
